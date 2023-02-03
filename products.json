@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "desc": "pineapple",
+      "price": 1,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "desc": "apple",
+      "price": 2,
+      "quantity": 2
+    },
+    {
+      "id": 3,
+      "desc": "pen",
+      "price": 3,
+      "quantity": 3
+    },
+    {
+      "id": 4,
+      "desc": "ice cream",
+      "price": 4,
+      "quantity": 4
+    },
+    {
+      "id": 5,
+      "desc": "banana",
+      "price": 5,
+      "quantity": 5
+    },
+    {
+      "id": 6,
+      "desc": "peach",
+      "price": 6,
+      "quantity": 6
+    },
+    {
+      "id": 7,
+      "desc": "orange",
+      "price": 7,
+      "quantity": 999999
+    },
+    {
+      "id": 8,
+      "desc": "strawberry",
+      "price": 8,
+      "quantity": 8
+    },
+    {
+      "id": 9,
+      "desc": "lychee",
+      "price": 9,
+      "quantity": 9
+    },
+    {
+      "id": 10,
+      "desc": "chocolate",
+      "price": 10,
+      "quantity": 10
+    }
+  ]
+}
